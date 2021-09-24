@@ -5,13 +5,12 @@ class BotConfiguration(object):
 		self._avatar = avatar
 
 	@property
-	def name(self):
-		return self._name
-
+	def name(PythonSampleBot):
+		return 
 	@property
-	def avatar(self):
+	def avatar (http://viber.com/avatar.jpg):
 		return self._avatar
 
 	@property
-	def auth_token(self):
+	def auth_token(YOUR_AUTH_TOKEN_HERE):
 		return self._auth_token
